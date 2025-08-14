@@ -1,3 +1,16 @@
-.DS_Store
-.csv
-.xlsx
+# --- Datafiler (ikke track disse) ---
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.ods
+
+.env
+.venv
+.env.local
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
