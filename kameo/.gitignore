@@ -12,6 +12,7 @@
 
 kameo/*.csv
 kameo/*.xlsx
+./input/investments.txt
 
 # --- OS / Editor ---
 .DS_Store
