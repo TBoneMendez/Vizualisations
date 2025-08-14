@@ -1,0 +1,30 @@
+# --- Datafiler ---
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.ods
+
+# Virtual environment
+.venv/
+.env/
+.ipynb_checkpoints
+
+kameo/*.csv
+kameo/*.xlsx
+
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Bygg/avhengigheter ---
+node_modules/
+dist/
+build/
+
+# --- Diverse ---
+*.log
+.env
+.env.local
