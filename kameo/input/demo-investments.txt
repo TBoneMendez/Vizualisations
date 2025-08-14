@@ -1,0 +1,51 @@
+Kvitsand Hytter AS - 4482 | Løpetid: 23 m | Rente: 16,00%
+Tegnet/Kjøpt: 2 000,00 | Tilbakebetalt/solgt: 0,00 | Gjenstående beløp: 2 000,00
+Dato	Transaksjon	Beløp	Valuta	Vekslingskurs per 100 NOK	Beløp i NOK
+2024-02-12	Tildeling	−2 000,00	NOK	100,00	−2 000,00
+2024-03-07	Renteinntekt	31,56	NOK	100,00	31,56
+2024-04-12	Forsinkelsesrente	0,07	NOK	100,00	0,07
+2024-04-12	Renteinntekt	26,67	NOK	100,00	26,67
+2024-05-07	Renteinntekt	26,67	NOK	100,00	26,67
+2024-06-07	Renteinntekt	26,67	NOK	100,00	26,67
+2024-07-08	Renteinntekt	26,67	NOK	100,00	26,67
+2024-08-07	Renteinntekt	26,67	NOK	100,00	26,67
+2024-09-09	Renteinntekt	26,67	NOK	100,00	26,67
+2024-10-07	Renteinntekt	26,67	NOK	100,00	26,67
+2024-11-07	Renteinntekt	26,67	NOK	100,00	26,67
+2024-12-09	Renteinntekt	26,67	NOK	100,00	26,67
+2025-01-07	Renteinntekt	26,67	NOK	100,00	26,67
+2025-02-07	Renteinntekt	26,67	NOK	100,00	26,67
+2025-03-07	Renteinntekt	26,67	NOK	100,00	26,67
+2025-04-07	Renteinntekt	26,67	NOK	100,00	26,67
+2025-05-07	Renteinntekt	26,67	NOK	100,00	26,67
+2025-06-10	Renteinntekt	26,67	NOK	100,00	26,67
+Totale renteinntekter	431,68	NOK	100,00	431,68
+AEKO Eiendomsutvikling AS - 4501 | Løpetid: 20 m | Rente: 13,00%
+Tegnet/Kjøpt: 2 000,00 | Tilbakebetalt/solgt: 0,00 | Gjenstående beløp: 2 000,00
+Dato	Transaksjon	Beløp	Valuta	Vekslingskurs per 100 NOK	Beløp i NOK
+2024-02-26	Tildeling	−2 000,00	NOK	100,00	−2 000,00
+2024-03-27	Renteinntekt	21,67	NOK	100,00	21,67
+2024-04-29	Renteinntekt	21,67	NOK	100,00	21,67
+2024-05-27	Renteinntekt	21,67	NOK	100,00	21,67
+2024-06-27	Renteinntekt	21,67	NOK	100,00	21,67
+2024-07-29	Renteinntekt	21,67	NOK	100,00	21,67
+2024-08-27	Renteinntekt	21,67	NOK	100,00	21,67
+2024-09-27	Renteinntekt	21,67	NOK	100,00	21,67
+2024-10-28	Renteinntekt	21,67	NOK	100,00	21,67
+2024-11-27	Renteinntekt	21,67	NOK	100,00	21,67
+2024-12-27	Renteinntekt	21,67	NOK	100,00	21,67
+2025-01-27	Renteinntekt	21,67	NOK	100,00	21,67
+2025-02-27	Renteinntekt	21,67	NOK	100,00	21,67
+2025-03-27	Renteinntekt	21,67	NOK	100,00	21,67
+2025-04-28	Renteinntekt	21,67	NOK	100,00	21,67
+2025-05-27	Renteinntekt	21,67	NOK	100,00	21,67
+2025-06-27	Renteinntekt	21,67	NOK	100,00	21,67
+2025-07-28	Renteinntekt	21,67	NOK	100,00	21,67
+Totale renteinntekter	368,39	NOK	100,00	368,39
+G. Foss Eiendom AS - 4504 | Løpetid: 3 m | Rente: 15,00%
+Tegnet/Kjøpt: 2 000,00 | Tilbakebetalt/solgt: 2 000,00 | Gjenstående beløp: 0,00
+Dato	Transaksjon	Beløp	Valuta	Vekslingskurs per 100 NOK	Beløp i NOK
+2024-03-07	Tildeling	−2 000,00	NOK	100,00	−2 000,00
+2024-03-27	Renteinntekt	75,00	NOK	100,00	75,00
+2024-03-27	Tilbakebetaling	2 000,00	NOK	100,00	2 000,00
+Totale renteinntekter	75,00	NOK	100,00	75,00
